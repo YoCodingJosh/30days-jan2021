@@ -11,4 +11,5 @@ The plan:
 
 Days:
 * [January 8](days/Jan8.md)
-* [January 9](dats/Jan9.md)
+* [January 9](days/Jan9.md)
+* [January 10](days/Jan10.md)
