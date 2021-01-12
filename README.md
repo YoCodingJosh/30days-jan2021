@@ -5,7 +5,9 @@
 The plan:
 
 * Learn Angular, TypeScript, and AWS
-  * and apply those skills to my side project: https://github.com/YoCodingJosh/anime_stats
+  * and apply those skills to my side project
+    * https://github.com/YoCodingJosh/anime_stats
+    * https://github.com/YoCodingJosh/anime_stats_ui
 * Learn some Japanese
   * I'm using Duolingo but will be bringing an additional tool called [WaniKani](https://www.wanikani.com/) for learning Kanji. In my opinion, Duolingo doesn't really teach Kanji that well.
 
@@ -13,3 +15,4 @@ Days:
 * [January 8](days/Jan8.md)
 * [January 9](days/Jan9.md)
 * [January 10](days/Jan10.md)
+* [January 11](days/Jan11.md)
