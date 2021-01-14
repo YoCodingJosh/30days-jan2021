@@ -10,4 +10,4 @@ I also started work on porting some of the functionality of AnimeStats to Angula
 
 I did a review of Hiragana (Hiragana 2 on Duolingo) and reviewed some of the letters like よ(yo), や(ya), き(ku), and others.
 
-I also did a lesson on Counting which strangely introduced some a words: 卵(tamago = egg) and using it in sentences about counting like 卵お一個食べます。= I will eat one egg.
+I also did a lesson on Counting which strangely introduced a word: 卵(tamago = egg) and using it in sentences about counting like 卵お一個食べます。= I will eat one egg. I also watched the first episode of Wonder Egg Priority, which makes it strange.
