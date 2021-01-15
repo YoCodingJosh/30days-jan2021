@@ -18,3 +18,4 @@ Days:
 * [January 11](days/Jan11.md)
 * [January 12](days/Jan12.md)
 * [January 13](days/Jan13.md)
+* [January 14](days/Jan14.md)
