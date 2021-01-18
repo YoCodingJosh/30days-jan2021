@@ -21,3 +21,4 @@ Days:
 * [January 14](days/Jan14.md)
 * [January 15](days/Jan15.md) (spoiler alert: too busy binge watching anime lol)
 * [January 16](days/Jan16.md)
+* [January 17](days/Jan17.md)
