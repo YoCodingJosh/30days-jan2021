@@ -25,3 +25,4 @@ Days:
 * [January 18](days/Jan18.md)
 * [January 19](days/Jan19.md) (spoiler alert: actually forgot)
 * [January 20](days/Jan20.md)
+* [January 21](days/Jan21.md)
