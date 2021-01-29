@@ -32,3 +32,4 @@ Days:
 * [January 25](days/Jan25.md)
 * [January 26](days/Jan26.md)
 * [January 27](days/Jan27.md)
+* [January 28](days/Jan28.md)
