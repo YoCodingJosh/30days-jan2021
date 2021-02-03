@@ -37,3 +37,4 @@ Days:
 * [January 30](days/Jan30.md)
 * [January 31](days/Jan31.md)
 * [February 1](days/Feb1.md)
+* [February 2](days/Feb2.md)
